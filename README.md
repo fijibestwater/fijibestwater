@@ -1,27 +1,40 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kill_urself&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+Howdy! Welcome to my GitHub! 
 
-I'm learning:
+Certifications:
+CompTIA A+
 
+Proficient in the following:
+
+* HTML
 * Docker
-* Python
+* Markdown
+* Bash
+* CSS
 
-Moderate experience with html and Spanish.
+Learning: 
+
+* Python
+* Spanish
 
 What am I hosting?
 
-* Plex
-* All of the *arr apps  
+* [XMPP/Jabber server](https://breakvolt.com/)
+* [Plex server with 16 TB of media, click me to signup!](https://dumbway.xyz)
+* Wizarr for onboarding new Plex users ^
+* *arr app suite  
 * Tautulli
-* Overseerr
 * NGINX Proxy Manager
-* Nextcloud
+* Nextcloud on RaspberryPi 5
 * Speedtest-tracker
-* Pi-hole
-* VPN
+* Pi-hole DNS server
+* Wireguard via PiVPN
+* Monero node via TOR (Work in progress, will update with the URL when I have time)
 
-currently writing some tutorials which will be posted [here](https://blog.5150.lol)
+Coming soon:
 
-<!---
-retardedboy/retardedboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* PeerTube
+* SearXNG
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kill_urself&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
