@@ -14,7 +14,7 @@ intermediate:
 * spanish
 
 learning: 
-* oython
+* python
 
 currently hosting:
 
