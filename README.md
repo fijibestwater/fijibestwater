@@ -1,39 +1,42 @@
-Howdy! Welcome to my GitHub! 
+freshman at [GENERIC COLLEGE NEAR YOU] studying Computer Science. 
 
-Certifications:
-CompTIA A+
+certifications:
+compTIA A+
 
-Proficient in the following:
+proficient:
+* markdown
+* git
 
-* HTML
-* Docker
-* Markdown
-* Bash
-* CSS
+intermediate:
+* HTML/CSS
+* docker
+* bash
+* spanish
 
-Learning: 
+learning: 
+* oython
 
-* Python
-* Spanish
+currently hosting:
 
-What am I hosting?
+* [xmpp](https://breakvolt.com/)
+* [matrix](https://matrix.dumbway.xyz)
+* [privatebin](https://mash.dumbway.xyz/bin)
+* [git](https://mash.dumbway.xyz/git)
+* joplin
+* syncthing
+* tailscale
+* grafana
+* synapse admin
+* qbittorrent w/ gluetun vpn
+* *starr app suite
+* plex  
+* tautulli
+* nextcloud aio
+* pi-hole w/ unbound
+* wireguard
 
-* [XMPP/Jabber server](https://breakvolt.com/)
-* [Plex server with 16 TB of media, click me to signup!](https://dumbway.xyz)
-* Wizarr for onboarding new Plex users ^
-* *arr app suite  
-* Tautulli
-* NGINX Proxy Manager
-* Nextcloud on RaspberryPi 5
-* Speedtest-tracker
-* Pi-hole DNS server
-* Wireguard via PiVPN
-* Monero node via TOR (Work in progress, will update with the URL when I have time)
+# tor monero node: http://gjani4gzotjkn7ztlhl7savwqyumoglg3zzfya6knsrzsj2nk33hg3yd.onion:18089 (no auth needed, logs are purged daily. don't forget port 18089)
 
-Coming soon:
-
-* PeerTube
-* SearXNG
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kill_urself&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
